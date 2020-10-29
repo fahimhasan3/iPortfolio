@@ -48,7 +48,7 @@
 
       <div class="profile">
         <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.html">Fahim Hasan</a></h1>
+        <h1 class="text-light"><a href="/">Fahim Hasan</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="https://join.skype.com/invite/cXPWBvpManXg" target="_blank" class="google-plus"><i
               class="bx bxl-skype"></i></a>
@@ -59,7 +59,7 @@
 
       <nav class="nav-menu">
         <ul>
-          <li class="active"><a href="index.html"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li class="active"><a href="/"><i class="bx bx-home"></i> <span>Home</span></a></li>
           <li><a href="#about"><i class="bx bx-user"></i> <span>About</span></a></li>
           <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
           <li><a href="#portfolio"><i class="bx bx-book-content"></i> Portfolio</a></li>
@@ -370,9 +370,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap" onclick="location.href='gazetteer-details.html';">
-              <img src="assets/img/portfolio/gazetteer.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/gazetteer.PNG" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/gazetteer.png" data-gall="portfolioGallery" class="venobox"
+                <a href="assets/img/portfolio/gazetteer.PNG" data-gall="portfolioGallery" class="venobox"
                   title="App 1"><i class="bx bx-plus"></i></a>
                 <a href="gazetteer-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
