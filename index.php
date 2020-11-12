@@ -114,7 +114,7 @@
               <div class="col-lg-6">
                 <ul>
                   <li><i class="icofont-rounded-right"></i> <strong>Age:</strong> 24</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Diploma in Computer Science</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Degree in Computer Science</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> fahimgasan@gmail.com</li>
                 </ul>
               </div>
