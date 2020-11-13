@@ -52,7 +52,7 @@
         <div class="social-links mt-3 text-center">
           <a href="https://join.skype.com/invite/cXPWBvpManXg" target="_blank" class="google-plus"><i
               class="bx bxl-skype"></i></a>
-          <a href="https://www.linkedin.com/in/fahim-hasan-693331185/" target="_blank" class="linkedin"><i
+          <a href="https://www.linkedin.com/in/fahim-hasan-693331185/?locale=en_US" target="_blank" class="linkedin"><i
               class="bx bxl-linkedin"></i></a>
         </div>
       </div>
