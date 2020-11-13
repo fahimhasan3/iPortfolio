@@ -89,11 +89,11 @@
         <div class="section-title">
           <h2>About</h2>
           <p>
-            I'm a software developer, I've been working in IT for 3 years in Italy, I worked mostly on developing SOAP
-            and Restful services using Java.<br>
-            Currently I am looking forward to find my first job in the UK.<br>
-            I'm always trying to improve my coding knowledge and looking to make the most efficient and maintainable
-            code.
+          I discovered my passion for programming when I was in school, and the sense of satisfaction that I experienced made me pursue a career in coding. <br>
+          I have worked as a software developer for 3 years in Italy, before coming to the UK where I have recently graduated from a coding Traineeship <br>
+          as a full stack developer including completing 2 real-world projects successfully to specification using a wide range of programming languages. <br>
+          My previous experience has also taught me the value of teamwork, as well as how to work to deadlines and stay calm under pressure. <br>
+          I am a hardworking and enthusiastic developer, who is always working to improve my existing skillset.
           </p>
         </div>
 
@@ -104,17 +104,13 @@
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Software Developer</h3>
             <div class="row">
-              <div class="col-lg-6">
+              <div class="col-lg-12">
                 <ul>
                   <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 3 August 1996</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +44 07307982294</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Birmingham, UK</li>
-                </ul>
-              </div>
-              <div class="col-lg-6">
-                <ul>
+                  <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> 07307982294</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Birmingham, United Kingdom</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Age:</strong> 24</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Degree in Computer Science</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> College Degree in Computer Science and Telecommunications</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> fahimgasan@gmail.com</li>
                 </ul>
               </div>
@@ -133,7 +129,7 @@
           <h2>Skills</h2>
           <p>My main skills are Java, Javascript and SQL. <br>
             I've worked mostly on projects allowing the users to manage their data: <br>
-            for example allowng hospitals to book and pay their appointments or allowing a warehouses to manage their
+            for example allowing hospitals to book and pay their appointments or allowing a warehouses to manage their
             products.
           </p>
         </div>
@@ -272,10 +268,16 @@
         <div class="row">
           <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Professional Experience</h3>
+	
+            <div class="resume-item">
+              <h4>Coding Traineeship – Full stack developer</h4>
+              <h5>Feb 2020 - Present</h5>
+              <h5>Study Period - <b>IT Career Switch Ltd</b></h5>
+            </div>
 
             <div class="resume-item">
               <h4>Software Developer</h4>
-              <h5>2017 - 2019</h5>
+              <h5>Mar 2017 - Oct 2019</h5>
               <h5><b>Santer Reply SPA </b><em>Milan, Italy</em></h5>
               <p><em>Santer Reply is a Company that specialises in Healthcare software, their client were various
                   hospital in North Italy, mostly near Milan.</em></p>
@@ -313,7 +315,7 @@
 
             <div class="resume-item">
               <h4>Junior Software Developer</h4>
-              <h5>2016 - 2017</h5>
+              <h5>Oct 2016 - Mar 2017</h5>
               <h5><b>Object Method SRL </b><em>Milan, Italy</em></h5>
               <p>First company that I worked for, worked on projects allowing users to manage their warehouses products.
               </p>
@@ -348,7 +350,7 @@
             <div class="resume-item">
               <h4>College Degree in Computer Science and Telecommunications</h4>
               <h5>2010 - 2015</h5>
-              <p><em>ITIS Molinari, Milan Italy</em></p>
+              <p><em>ITIS Ettore Molinari, Milan Italy</em></p>
             </div>
           </div>
 
