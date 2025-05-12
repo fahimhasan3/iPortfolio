@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>iPortfolio Bootstrap Template - Index</title>
+  <title>iPortfolio Fahim Hasan</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -62,6 +62,7 @@
           <li class="active"><a href="/"><i class="bx bx-home"></i> <span>Home</span></a></li>
           <li><a href="#about"><i class="bx bx-user"></i> <span>About</span></a></li>
           <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
+          <li><a href="#notable-projects"><i class="bx bx-folder"></i> Notable Projects</a></li>
           <li><a href="#portfolio"><i class="bx bx-book-content"></i> Portfolio</a></li>
           <li><a href="#contact"><i class="bx bx-envelope"></i> Contact Me</a></li>
 
@@ -89,11 +90,10 @@
         <div class="section-title">
           <h2>About</h2>
           <p>
-          I discovered my passion for programming when I was in school, and the sense of satisfaction that I experienced made me pursue a career in coding. <br>
-          I have worked as a software developer for 3 years in Italy, before coming to the UK where I have recently graduated from a coding Traineeship <br>
-          as a full stack developer including completing 2 real-world projects successfully to specification using a wide range of programming languages. <br>
-          My previous experience has also taught me the value of teamwork, as well as how to work to deadlines and stay calm under pressure. <br>
-          I am a hardworking and enthusiastic developer, who is always working to improve my existing skillset.
+          I'm a Software Developer with 7 years of hands-on experience building web and mobile applications. I began coding during school, where I quickly discovered a deep passion for problem-solving through technology — a passion that has since evolved into a career.<br>
+          Over the years, I’ve worked across various industries, both in Italy and the UK, contributing to projects ranging from vehicle-tracking systems to booking applications.<br>
+          I recently focused on PHP Laravel, React and React Native, delivering tailored applications in both agile and waterfall environments. I enjoy collaborating with cross-functional teams to translate evolving requirements into clean, efficient solutions.<br>
+          My background has instilled in me a strong work ethic, adaptability, and the ability to stay focused under pressure. I’m continuously working to sharpen my skills and stay updated with emerging technologies.
           </p>
         </div>
 
@@ -109,7 +109,6 @@
                   <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 3 August 1996</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> 07307982294</li>
                   <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Birmingham, United Kingdom</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Age:</strong> 24</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> College Degree in Computer Science and Telecommunications</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> fahimgasan@gmail.com</li>
                 </ul>
@@ -127,10 +126,10 @@
 
         <div class="section-title">
           <h2>Skills</h2>
-          <p>My main skills are Java, Javascript and SQL. <br>
-            I've worked mostly on projects allowing the users to manage their data: <br>
-            for example allowing hospitals to book and pay their appointments or allowing a warehouses to manage their
-            products.
+          <p>
+            My core skills include <b>PHP, Laravel, JavaScript, React, SQL</b><br>
+            In my most recent role, I focused on developing custom web and mobile applications using PHP with Laravel for the backend, and React or React Native for the frontend.<br>
+            In my previos roles in Italy I’ve worked primarily on data-driven applications — from hospital systems that manage appointment bookings and payments, to warehouse tools that track and organize products. <br>             
           </p>
         </div>
 
@@ -139,77 +138,76 @@
           <div class="col-lg-6" data-aos="fade-up">
 
             <div class="progress">
-              <span class="skill">Java 8<i class="val">90%</i></span>
+              <span class="skill" title="Comfort level using PHP">PHP</span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">JavaScript</span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
                 </div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Oracle SQL, PostgreSQL, mySQL<i class="val">90%</i></span>
+              <span class="skill">Laravel framework</span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
                 </div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Hibernate JPA<i class="val">80%</i></span>
+              <span class="skill">React<i class="val"></i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
                 </div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Web Services (SOAP, REST)<i class="val">80%</i></span>
+              <span class="skill">React Native<i class="val"></i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
                 </div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">JavaScript <i class="val">80%</i></span>
+              <span class="skill">SQL<i class="val"></i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
                 </div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">PHP <i class="val">70%</i></span>
+              <span class="skill">HTML <i class="val"></i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
                 </div>
               </div>
             </div>
-
-
 
             <div class="progress">
-              <span class="skill">Spring framework<i class="val">60%</i></span>
+              <span class="skill">CSS <i class="val"></i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
                 </div>
               </div>
             </div>
+
 
           </div>
 
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="progress">
-              <span class="skill">Python <i class="val">60%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
-                </div>
-              </div>
-            </div>
 
             <div class="progress">
-              <span class="skill">HTML <i class="val">90%</i></span>
+              <span class="skill">Yii2 framework<i class="val"></i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
                 </div>
@@ -217,26 +215,15 @@
             </div>
 
             <div class="progress">
-              <span class="skill">CSS <i class="val">80%</i></span>
+              <span class="skill">Git<i class="val"></i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
-                </div>
-              </div>
-            </div>
-
-
-
-
-            <div class="progress">
-              <span class="skill">Subversion/Git<i class="val">80%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
                 </div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Maven<i class="val">80%</i></span>
+              <span class="skill">Linux<i class="val"></i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
                 </div>
@@ -244,7 +231,31 @@
             </div>
 
             <div class="progress">
-              <span class="skill">Linux<i class="val">60%</i></span>
+              <span class="skill">Java 8<i class="val"></i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Hibernate JPA<i class="val"></i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Spring framework<i class="val"></i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Maven<i class="val"></i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
                 </div>
@@ -253,6 +264,11 @@
 
           </div>
 
+        </div>
+
+        <div class="info-tooltip">
+          <i class="bx bx-info-circle" style="font-size: 1.4rem;"></i>
+          <span class="tooltip-text">Progress bar represents comfort level</span>
         </div>
 
       </div>
@@ -270,19 +286,69 @@
             <h3 class="resume-title">Professional Experience</h3>
 	
             <div class="resume-item">
-              <h4>Coding Traineeship – Full stack developer</h4>
-              <h5>Feb 2020 - Present</h5>
-              <h5>Study Period - <b>IT Career Switch Ltd</b></h5>
+              <h4>Mid Level Developer</h4>
+              <h5>December 2020 - October 2024</h5>
+              <h5><b>Scorchsoft Ltd </b> <em>Birmingham, UK</em></h5>
+              <p>
+                Developed and maintained web and mobile applications using PHP Laravel, React, React Native, and AWS services.<br>
+                Led full-stack development efforts, handling both front-end and back-end components to deliver scalable, high-quality 
+                applications for clients in a primarily waterfall environment.<br>
+                Key projects included various custom client applications and FleetClear, a comprehensive vehicle tracking 
+                system focused on driver performance monitoring, accident detection, and video tracking features.
+              </p>
+              <div class='row'>
+                <div class="col-lg-6">
+                  <p><b>Responsibilities</b></p>
+                  <ul>
+                    <li>Estimate clients requests and create tasks</li>
+                    <li>Develop, maintain and test software</li>
+                    <li>Create projects documentation</li>
+                    <li>Release in testing and production environment</li>
+                    <li>Help junior developers with tasks and problems</li>
+                    <li>Review other developers pull requests</li>
+                  </ul>
+                </div>
+                <div class="col-lg-6">
+                  <p><b>Technologies</b></p>
+                  <ul>
+                    <li>PHP 8</li>
+                    <li>Laravel</li>
+                    <li>React</li>
+                    <li>React Native</li>
+                    <li>AWS Ec2, Lambda, s3</li>
+                    <li>Yii2</li>
+                    <li>Wordpress</li>
+                  </ul>
+                </div>
+              </div>
             </div>
 
             <div class="resume-item">
-              <h4>Software Developer</h4>
-              <h5>Mar 2017 - Oct 2019</h5>
+              <h4>Coding Traineeship – Full stack developer</h4>
+              <h5>Febraury 2020 - September 2020</h5>
+              <h5><b>IT Career Switch Ltd</b></h5>
+              <p>
+                I completed a refresher course to update my skills in modern technologies and PHP for web development.
+              </p>
+            </div>
+
+            <div class="resume-item">
+              <h4>Full Stack Developer</h4>
+              <h5>March 2017 - October 2019</h5>
               <h5><b>Santer Reply SPA </b><em>Milan, Italy</em></h5>
-              <p><em>Santer Reply is a Company that specialises in Healthcare software, their client were various
-                  hospital in North Italy, mostly near Milan.</em></p>
-              <p>My core projects which I programmed from the start were back-end projects in Java offering SOAP
-                services to integrate our customers with third party software.</p>
+              <p>
+                <em>Santer Reply is a Company that specialises in Healthcare software, their client were various
+                  hospital in northern Italy</em>
+              </p>
+              <p>
+                In this role, I focused on developing backend solutions in Java for hospital booking software, 
+                including generating detailed PDF reports tailored to various hospital requirements.<br>
+                I also designed and implemented both RESTful and SOAP APIs to enable integration with third-party systems - <em>for example, 
+                connecting with pagoPA to allow patients to pay their invoices online.</em><br>
+                One of the more complex challenges I tackled was ensuring the encryption of sensitive patient data to achieve GDPR compliance. 
+                This task was particularly demanding due to some data being stored in XML format within CLOB fields in the database.<br>
+                Additionally, I occasionally contributed to frontend development using React.
+              </p>
 
               <div class='row'>
                 <div class="col-lg-6">
@@ -314,10 +380,12 @@
             </div>
 
             <div class="resume-item">
-              <h4>Junior Software Developer</h4>
+              <h4>Junior Developer</h4>
               <h5>Oct 2016 - Mar 2017</h5>
               <h5><b>Object Method SRL </b><em>Milan, Italy</em></h5>
-              <p>First company that I worked for, worked on projects allowing users to manage their warehouses products.
+              <p>
+                In this 5-month internship, I developed warehouse management software and an eCommerce website, 
+                using Java for backend and Angular for frontend, gaining hands-on experience in full-stack development.
               </p>
 
               <div class='row'>
@@ -358,6 +426,30 @@
 
       </div>
     </section><!-- End Resume Section -->
+
+    <section id="notable-projects" class="notable-projects section-bg">
+      <div class="container">
+        <div class="section-title" style="padding-bottom: 5px;">
+          <h2>Notable Projects</h2>
+        </div>
+        <p>
+          One of my most significant projects was <b>FleetClear</b>, a complex telematics tracking platform I worked on for 3 years. It enables clients to monitor driver performance, access live and historical video feeds, and manage entire fleets in real-time. <br> 
+          We leveraged various AWS services to ensure the platform could scale effectively as the client base and vehicle count grew rapidly.
+        </p>
+
+        <div class="row projects-container" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-6 col-md-6 projects-item filter-app">
+            <div class="projects-wrap projects-links">
+              <a href="https://www.fleetclear.com/" target="_blank" rel="noopener noreferrer">
+                <img src="assets/img/portfolio/fleetclear-home-page.png" class="img-fluid projects-image" alt="FleetClear Project">
+              </a>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+    </section>
 
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio section-bg">

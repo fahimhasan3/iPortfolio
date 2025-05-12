@@ -391,8 +391,42 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
+
+.info-tooltip {
+  position: relative;
+  display: inline-block;
+  font-size: 0.9em;
+  cursor: help;
+  color: #3498db;
+  margin-top: 15px;
+}
+
+.info-tooltip .tooltip-text {
+  visibility: hidden;
+  width: max-content;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 4px;
+  padding: 5px 8px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+  transition: opacity 0.3s;
+  white-space: nowrap;
+  font-size: 0.75rem;
+}
+
+.info-tooltip:hover .tooltip-text {
+  visibility: visible;
+  opacity: 1;
+}
+
 .skills .progress {
   height: 50px;
   display: block;
@@ -487,6 +521,25 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Notable Projects
+--------------------------------------------------------------*/
+
+.projects-wrap {
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+}
+
+.projects-image {
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.projects-wrap:hover .projects-image {
+  transform: scale(1.05);
+  opacity: 0.55;
+}
+
+/*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
@@ -529,6 +582,7 @@ section {
   transition: 0.3s;
   position: relative;
   overflow: hidden;
+  cursor: pointer;
   z-index: 1;
 }
 
